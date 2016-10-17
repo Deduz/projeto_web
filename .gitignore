@@ -1,0 +1,5 @@
+/.settings*
+/target/
+.classpatch
+.project
+/src/main/webapp/index.css
